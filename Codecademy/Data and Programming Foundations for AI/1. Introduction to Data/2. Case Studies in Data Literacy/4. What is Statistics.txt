@@ -1,0 +1,14 @@
+Now let’s check out a case study that showcases the value of data literacy in the legal system.
+
+Big, amorphous injustices like hiring discrimination are hard to prove in court. Hiring discrimination is a pattern of biased behavior towards candidates. This bias results in qualified candidates not getting hired because of their traits.
+
+Throughout the 1900s, companies in the US were able to justify hiring on a case-by-case basis. After all, it’s legal to hire or not hire candidates based in part on soft qualities such as “fit” and “office culture.” But if these qualities are a mask for factors like a candidate’s race, gender, or religion, the company has broken anti-discrimination laws.
+
+Usually, a lawyer would have to show the many individual cases that proved a company was discriminatory. Instead, lawyer Elaine W. Shoben shifted the burden of proof to companies. How was she able to do this with data literacy? She used the power of statistics! Statistics helps us test the likelihood of an event happening by random chance versus systematically.
+
+What does that actually mean? For example, you’re more likely to see more cars on the road at 8am on Wednesday than at 8am on Sunday. This isn’t a random occurrence – the increase in cars is systematically explainable by the existence of rush hour due to standard business hours. It is statistically more likely to see many cars during rush hour than at other times.
+
+We’ll see in the next exercise exactly how Elaine Shoben used 
+Preview: Docs Loading link description
+statistics
+ to change how we assess bias in hiring.

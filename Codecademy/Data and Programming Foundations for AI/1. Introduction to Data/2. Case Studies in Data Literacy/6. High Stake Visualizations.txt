@@ -1,0 +1,17 @@
+Okay, we’ve walked through recognizing data quality and bias in healthcare and using 
+Preview: Docs Loading link description
+statistics
+ to answer big legal questions. Where else does data literacy come into play?
+
+Data visualization is one of the most visible and obvious places we interact with data. It helps us to explore and understand data-driven arguments and is a powerful tool for communication.
+
+While most data viz we see is of the “everyday” variety, in this case study we’ll look at a highly consequential visualization: one of the charts that NASA-contracted engineers used to make the 
+Preview: Docs Loading link description
+argument
+ that the Challenger space shuttle should not take off on January 28, 1986.
+
+The Challenger space shuttle carried seven US astronauts who were supposed to deploy a satellite and study Halley’s Comet while they were in orbit. Less than two minutes after takeoff, however, the shuttle exploded, killing all seven crew members.
+
+The explosion was caused by a failure of two O-rings: small rubber rings that helped create an airtight seal between the space shuttle and its launch fuel supply. Before the launch, engineers were concerned about how the low-temperature forecast would affect the O-rings’ ability to make a proper seal.
+
+The engineers made their arguments in favor of postponing the launch using, in part, a series of data visualizations that showed launch success rates at various temperatures. Tragically, their arguments did not prevent the launch from proceeding.

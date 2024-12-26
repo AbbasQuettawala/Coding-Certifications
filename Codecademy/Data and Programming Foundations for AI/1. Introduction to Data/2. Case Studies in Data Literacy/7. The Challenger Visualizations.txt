@@ -1,0 +1,16 @@
+Before we pick apart this visualization, it’s worth saying that hindsight is 20/20. If it were as simple as “obviously, the O-rings were going to fail,” then the Challenger would never have been launched. This event was the culmination of several years rather than an isolated incident, so there were many other factors at play.
+
+Following the incident, a Presidential Commission was initiated to investigate the causes of the catastrophe. The commission determined that it was directly the result of O-ring failure. However, they also concluded that management from both NASA and Morton Thiokol (the company NASA had contracted to design and maintain its rocket boosters) had ignored evidence that indicated there was significant risk of O-ring failure at lower temperature launches. Additionally, the commission noted that they had failed to adequately test the equipment they were using, despite consistent requests from engineers for several years preceding the incident.
+
+In short, it is unlikely that this particular visualization played a pivotal role in the decision-making conversation that ended with management settling to launch as scheduled.
+
+From a data literacy standpoint, though, we can definitely see how a better visualization would make the trend of the data more apparent. The engineers had the data to know that O-rings began to fail at lower temperatures. But their visualization was not created in a way that made that danger clear.
+
+The visualization of rocket launches was organized by date, which made it hard to see the pattern of launch failures at lower temperatures (see the top-right image). When Edward Tufte later organized the rockets by temperature, that pattern became much more obvious (see the lower image). Additionally, including all of the rocket symbols for decoration didn’t make the 
+Preview: Docs Loading link description
+argument
+ clearer, but instead added distracting visuals to the page.
+
+The visualization would have been easier to interpret with fewer distracting lines and a more direct link between temperature and launch failures.
+
+While most of us will (thankfully) never be in the position of making or interpreting life-or-death data visualizations, good data literacy helps us to make informed decisions everyday. Should I bring an umbrella? Should I postpone my trip to avoid public health risks? Should I buy stock in Blockbuster? Whatever the questions, improving our data literacy can help us reach the answers.

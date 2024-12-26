@@ -1,0 +1,14 @@
+Wowie, we’ve covered a lot! The road to confident data literacy is full of fascinating examples, and knowledge that helps us make sense of one of the most powerful tools of our age: data.
+
+In this lesson, we covered data quality and data ethics, and saw how interrogating data quality can lead to better outcomes in healthcare. Along with that, we saw how recognizing and addressing bias leads to stronger data and deeper truth.
+
+We learned how people have used 
+Preview: Docs Loading link description
+statistics
+ to solve important but nebulous legal problems like hiring discrimination. Knowing how to use statistics has huge consequences for learning about issues that are too big to fully address one-by-one.
+
+We saw how visualizations can make or break a data conclusion when it comes to communicating findings. While most of us aren’t making or interpreting life-or-death data viz, learning from the Challenger space shuttle explosion can help everyone to make more intentional, meaningful decisions around data visualization.
+
+Finally, we talked about data analysis. We covered the importance of context when it comes to interpreting data: not just what the numbers are, but what they mean. And we learned about correlation and causation, capping things off with a triumph for modern medicine based on good data visualization and causal analysis.
+
+Hot dog! That’s a lot of reasons to get excited about data literacy.

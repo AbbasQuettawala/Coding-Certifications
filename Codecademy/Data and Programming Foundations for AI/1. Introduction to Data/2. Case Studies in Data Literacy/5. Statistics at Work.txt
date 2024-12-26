@@ -1,0 +1,11 @@
+So how did Elaine Shoben show that discrimination was at play in hiring decisions? It’s a bit heavy on the legal jargon, but we can break it down to see how it works.
+
+First, she said that we can use 
+Preview: Docs Loading link description
+statistics
+ to see if the hiring results of subjective interviews are so unlikely that they couldn’t have happened by chance. In other words, is it even possible (in statistical terms) that the pattern of who got the job could be based on random chance?
+If the results couldn’t happen by chance, then the alternative is that they must happen by “purposeful exclusion.” In other words, it would mean people are excluded from the job by discriminatory hiring practices.
+If the employers are aware of the “exclusionary effect,” and they continue to use that same hiring process, then they’re showing a “reckless disregard” for the rights of individual candidates not to be discriminated against in the hiring process. (Read it a few times if you need to!)
+Once we acknowledge that, the burden shifts to employers to show why their hiring requirements are valid and necessary. We no longer assume the hiring practices are legitimate and make job candidates prove otherwise.
+Statistics at work! That’s definitely a bit of legal jargon, but how cool is it to use statistics to reveal a systematic pattern of discrimination, rather than trying to piece together a case from individual experiences. That’s really what stats is all about.
+

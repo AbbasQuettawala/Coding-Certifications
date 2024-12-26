@@ -1,0 +1,25 @@
+For your new role as a tree census taker, you’ll start with height and species. ‘Height’ and ‘Species’ are our 
+Preview: Docs Loading link description
+variables
+. The height of each tree can “vary” from one tree to another (hence the name).
+
+Each individual tree is called an entity, observation, or instance (there are a lot of names for this). We’ll stick with observations, but know that these three terms are used interchangeably.
+
+In a well-organized dataset, the variables describe a characteristic of our entities. However, it can be surprisingly difficult to define good variables. Good variables measure only one characteristic and should not be a characteristic themselves. Let’s look at an example.
+
+For example, in our tree dataset, we are interested in the type of environment the tree is in. For example, we are looking at trees along city streets, highways, and in undeveloped areas. We also want to know if trees are standing alone or with others.
+
+There are many ways to organize this. We could:
+
+Make 3 new variables: ‘City’, ‘Highway’, ‘Undeveloped’ and input ‘alone’ or ‘group’ in the values.
+Make 2 new variables: ‘Location’ and ‘Single’ and input the location type in the ‘Location’ variable and 0 or 1 in the ‘Single’ variable.
+Option 1 might seem ok during the collection phase, but it will be difficult when we start trying to analyze the data. For example, finding all of the ‘City’ or ‘Highway’ trees and then segmenting them by alone would be a challenge.
+
+You may have already noticed that ‘City’, ‘Highway’, and ‘Undeveloped’ can be grouped together as a characteristic (and there are categories like ‘Park’ or ‘Yard’ that are missing). Rather than naming our variables for the categories themselves, we are better off having one variable named ‘Location Type’ and entering all the possible values. This will make analysis easier later on, and we can add new categories if we need to (like ‘Park’).
+
+Looks like Option (2) is the better organization for us.
+
+But what about ‘Alone’ and ‘Group’? Well, we will talk more about this later, but for now, just know that the variable name will be ‘Single’, and we will fill it in with 1 for True/Yes and 0 for False/No.
+
+Instructions
+Compare the organization of the datasets to the right. Notice that with the tidy dataset, every variable has a value for every observation. This isn’t always possible, but it is ideal.

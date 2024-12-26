@@ -1,0 +1,9 @@
+Welcome to this course on data literacy! First things first, let’s answer a crucial question: Why is data literacy important? In other words, why should anyone aim to be data literate?
+
+There are a lot of good answers! In this lesson, we’ll see how data literacy helped 19th-century doctors end cholera epidemics and discover the root cause of the disease. We’ll explore how it has helped reveal discrimination in hard-to-measure settings like hiring practices and advance medical knowledge by improving clinical trial data quality.
+
+Data literacy also helps us to produce readable work for other people. As we’ll see, even when good data is there, the inability to tell a clear story can have dire consequences.
+
+It’s no secret that data is an incredibly powerful tool. With all that’s at stake, it’s also not a surprise that understanding a data-driven conclusion can feel overwhelming sometimes – both as an audience member and as an analyst. No matter which side we find ourselves on, data literacy is about how well we read, interpret, and communicate with data.
+
+Let’s dive in with some case studies about data literacy triumphs and failures.

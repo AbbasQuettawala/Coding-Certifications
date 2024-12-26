@@ -1,0 +1,21 @@
+One question the data on heart attacks might prompt is “why did the trials have only 38% female participation?”
+
+In part, for historical reasons: in the 1950s, pregnant women in Europe and Canada were prescribed a drug called thalidomide for morning sickness. This drug resulted in severe birth defects and was taken off the market. As a result, in 1977 the US Food and Drug Administration (FDA) recommended excluding from early-stage clinical trials all women who could become pregnant. While intended to protect women, the recommendation put them at risk in a different way, limiting our knowledge of the effects of drugs on women’s bodies.
+
+The FDA reversed these recommendations in the 1990s, and today government-funded clinical trials must include women and other minorities. Yet, the trials don’t need to include minority groups at representative levels, and the majority of drug trials in the US aren’t government-funded anyway.
+
+In this case, participation might also be impacted by media representations. In typical TV or movie heart attacks, we almost always see a man clutching at his arm or chest. Not only do women have heart attacks too (we wouldn’t know it from watching TV), they rarely experience chest pain as a symptom.
+
+(In fact, in the top 20 “heart attack” movies* on IMDB, only two heart attacks happen to women: one is fake, and the other is a disguised murder. So… zero real heart attacks in women in a list of top 20 “heart attack” movies!)
+
+It might seem like a stretch from data literacy to TV heart attacks, but sound science means examining bias and controlling 
+Preview: Docs Loading link description
+variables
+ wherever possible.
+
+Part of practicing good data literacy means asking…
+
+Who participated in the data?
+Who is left out?
+Who made the data?
+*top movies with keyword “heart attack” where there is actually a heart attack mentioned or shown in the movie – not The Exorcist, which is on that list because people have had heart attacks while watching it… yikes!

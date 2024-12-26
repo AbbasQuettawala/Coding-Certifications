@@ -1,0 +1,15 @@
+Congratulations! You’ve done the hard work of collecting your data and preparing it for analysis. Along the way you’ve addressed some data quality issues and considered the relationship between your data and your questions.
+
+While preparing the North Atlantic Tree Census, you’ve:
+
+Defined your 
+Preview: Docs Stores data that can be manipulated and referenced throughout the code.
+variables
+ to create tidy datasets
+Classified the variables based on their types
+Reconciled messy data
+Decided how to deal with missing data
+Addressed issues of accuracy
+Aligned your questions to the available data to ensure validity
+Created representative samples
+These are important techniques for anyone working with data to always be conscious of. In the end, your human oversight and critical consideration of the data will have the biggest impact on data quality.

@@ -1,0 +1,13 @@
+Wow, we’ve made it through a lot of content! Let’s kick off the final section: analysis, or turning data into useful information. The key question of analysis is, “what’s the takeaway?”
+
+Let’s start with a humble reminder that humans have some limitations when it comes to numbers.
+
+We’re generally very good when it comes to numbers we can count, or numbers we use in context. For example, money makes a lot of sense in everyday amounts like coffee, bills, or rent. We can visualize what those numbers mean and understand the consequences of them increasing or decreasing by, say, 20%.
+
+But numbers without everyday context are another story. Think about the GDP of a country, or the personal wealth of an evil billionaire. How would that number change if we added 20% to it? We can probably do the calculation without too much challenge, but what does the change in that number actually mean in real life terms?
+
+With really big (or really small) numbers, it takes extra care and attention to understand how big or how small the quantity is.
+
+On that note, powers of ten make a big difference, especially at a large scale! A million vs. a billion? Really different! (1 million seconds is equal to about 11 days. 1 billion seconds is equal to about 32 years 🤯 )
+
+Part of an analyst’s job is to provide context and clarifications to make sure that audiences are not only reading the correct numbers, but understanding what they mean.
