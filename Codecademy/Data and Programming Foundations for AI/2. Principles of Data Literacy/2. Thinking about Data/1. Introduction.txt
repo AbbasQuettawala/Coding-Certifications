@@ -1,0 +1,30 @@
+Let’s imagine we are working for the city government of the fictional city of Melody Metropolis. The mayor of Melody Metropolis wants to know more about the musicians who currently live in the city. The learning environment shows a dataset we have on musicians living in the city as of last year. How would you describe this dataset? See if you can answer any of the following questions:
+
+What does a typical musician’s income look like?
+Is there a wide range of musician ages?
+What proportion of the musicians in the dataset play guitar?
+We can try to make generalizations by looking over the rows and columns, but it’s difficult to answer these questions precisely. We need some kind of “data vocabulary” that can help us measure and describe the 
+Preview: Docs Loading link description
+variables
+ in the dataset. Summary statistics can be used for exactly this purpose!
+
+With a basic understanding of summary 
+Preview: Docs Loading link description
+statistics
+, we can communicate and understand a lot more specific information about the musicians in the city. But learning statistics is often associated with a lot of negativity:
+
+Memorization of lots of math formulas
+Long calculations done by hand
+Confusing or meaningless interpretations
+None of these struggles need to be part of learning to use statistics. In this lesson, we’ll gain a conceptual understanding of how summary statistics can easily help us communicate and interpret our dataset.
+
+Instructions
+Before moving to the next exercise, familiarize yourself with the following names and descriptions of the variables in the dataset:
+
+age: age in years
+income: yearly income in US dollars
+title: primary job title
+experience: years of experience in the field of music
+instrument: primary instrument
+band: whether in a band (1 = yes, 0 = no)
+What are you interested in learning about the musicians of Melody Metropolis?

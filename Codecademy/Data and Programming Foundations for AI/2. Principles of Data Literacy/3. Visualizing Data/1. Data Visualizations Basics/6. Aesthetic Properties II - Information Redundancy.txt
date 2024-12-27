@@ -1,0 +1,11 @@
+Let’s take a closer look at this graph. There’s a connection here between size and y-position (how high or low a circle is): they actually tell us the same information twice!
+
+This is an example of information redundancy, or encoding the same information in different visual properties. We already know that Facebook has the largest company value because it’s the highest circle on the chart. Its large size gives us another way to visually compare it to the other data points.
+
+Info redundancy is also helpful for prioritizing values. There are lots and lots of smaller companies on this graph – if every circle were the size of Google’s circle, the bottom part of the graph would be an unreadable ball pit. Or, if all the circles were the size of the smallest ones, the chart would lose some of its emphasis on Facebook’s large IPO value. Information redundancy helps key data points to stand out.
+
+Color and x-position are also redundant on this graph, making the chart a little easier and faster to interpret. The three color groups in the graph help break up the three-ish decades shown, giving us a sense in one glance that red circles are part of an early group, purples are in a middle group, and blues are the latest.
+
+We’ll dive deeper into accessibility later, but for now note that information redundancy is also an important practice to ensure that colorblind viewers can access all the information in a chart.
+
+To sum up, information redundancy visualizes the same information using multiple different aesthetic properties. It’s important for readability, organization and prioritization of information, and accessibility.

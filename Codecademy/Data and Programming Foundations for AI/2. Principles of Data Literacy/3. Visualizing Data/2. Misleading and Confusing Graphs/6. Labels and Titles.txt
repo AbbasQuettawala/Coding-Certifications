@@ -1,0 +1,17 @@
+A good title is one of the best and fastest tools for making a more understandable visualization. Lots of confusion can be saved with a descriptive title.
+
+If the graph doesn’t have a good title (or even a title!), viewers have to do more legwork to first figure out what each axis measures and then what the data points show.
+
+The title can be a question that visualization answers, like, “Who speaks more in Disney movies, male or female characters?”
+
+Titles can also be a statement of what the visualization shows, like “Comparing denim inseam lengths through the decades” or “Millennials really do spend more on rent than on avocados” or “The effect of hunger on mood level.”
+
+Like a good title, annotations on a graph also help the viewer to understand what’s going on. Annotations are perfect for calling out points of interest, explaining outliers, or including background information that a viewer won’t necessarily know from just looking at the graph.
+
+Check out this Live Births graph from FlowingData to see how much value the annotations add. They…
+
+add detail to the highest and lowest points on the graph
+explain what the 0% baseline means
+provide a caveat for the 2021 data
+reinforce in words that the percents on the y-axis show “more births” and “fewer births”
+Just a few lines of thoughtful annotation here and there give the audience so much more ability to interpret the graph at a deeper level!

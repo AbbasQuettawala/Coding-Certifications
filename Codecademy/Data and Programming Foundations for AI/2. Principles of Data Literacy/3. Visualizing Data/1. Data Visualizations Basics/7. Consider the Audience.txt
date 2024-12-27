@@ -1,0 +1,18 @@
+The best data visualizations help us to understand what’s in the data, draw meaningful conclusions, and make decisions about the next steps. This requires context and different context is appropriate for different audiences.
+
+Let’s walk through an imaginary-world example:
+
+Shinji, Paola and Raj work together in an ecology lab. Their lab is applying for funding for a field research trip next year. This week, each of them will present the lab’s work and data to a different potential funder:
+
+Sir Avon Rattleborough, retired ecologist and expert field researcher
+Claude Tuber, board game developer and eccentric venture capitalist
+Milana Diamante, heiress and amateur biologist
+The three labmates know they’ll have to communicate differently to each of these potential funders. They’ll communicate the same information, but each lab member will personalize their chart with a title and annotations that work best for their intended audience.
+
+With this in mind, let’s get some background on the funders and see which title and annotation is most effective for each graph…
+
+Sir Avon has over 50 years of ecology research under his belt, and lives for the details. He’s not familiar with the lab’s work specifically, but he knows the lingo. Sir Avon always wants to see proof.
+
+Claude is a big picture thinker: he’s wondering if the lab’s research can be turned into a fun and educational board game for a broad audience. He’s excited about it but knows nothing about ecology. Claude has a limited attention span.
+
+Milana is an enthusiastic citizen scientist in her free time, and is eager to support a worthy cause. She’s never done field research herself, but has some background knowledge and has been following the lab’s work for a couple years. Milana loves to ask follow-up questions.

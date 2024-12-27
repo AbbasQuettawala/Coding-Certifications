@@ -1,0 +1,12 @@
+Scaling refers to the distances between numbers on an axis. Almost all 
+Preview: Docs Graphs are a way of modeling systems based on a node and edge structure for representing the relationships between items.
+graphs
+ use a linear scale, where the numbers count up by a consistent interval – tenths of a centimeter or millions of dollars, if it’s the same interval, it’s a linear scale.
+
+The other scaling option is a logarithmic scale, a.k.a. log scale. The log scale is common for showing exponential growth that won’t fit on the page with a linear scale, but it’s almost never a good choice for a general audience. Unless people use log scales regularly, they tend to have trouble interpreting them correctly.
+
+Check out the graphs in the LE to see how the pharmaceutical company Purdue infamously used this misinterpretation to their advantage in the early 2000s. The linear scale shows how the concentration of a painkiller drug spikes sharply in the bloodstream at higher doses – the log scale makes it look like all doses behave pretty similarly. (These are reproductions of the original graphs, but we can definitely see how differently they represent the same numbers.)
+
+In general, just like it’s always worth checking for a break, it’s always worth checking how a graph is scaled.
+
+Last thing about axes and scaling: generally, we measure time horizontally, putting that variable on the x-axis. For the vast majority of circumstances, this makes the most sense and helps readers to intuit what the graph measures.

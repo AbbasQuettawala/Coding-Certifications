@@ -1,0 +1,12 @@
+Color is often the first thing we register when looking at data visualizations. There are three types of color scales, used for the three major types of relationships we can visualize with color.
+
+Sequential scales are colors in a sequence – often, this is the same hue with more and more white added to or taken away from the color. Sequential scales are used to show a variable increasing or decreasing in intensity or amount, like income, depth, or percent of population that owns a chinchilla.
+
+sequential scale
+
+Divergent scales are anchored by colors from opposite sides of the color wheel, a.k.a. complementary colors. A divergent scale is used to visualize data where the middle is a baseline, and either side represents a contrasting change. For example, divergent scales do a good job of showing a positive/negative swing in voting or polling, temperatures above and below freezing, or gains and losses over time.
+
+divergent scale
+
+Categorical scales use a variety of colors to differentiate categories without assigning a rank or order to them. In other words, “purple” doesn’t necessarily mean more than “green” – the two are just different colors. Categorical scales are for categorical data, like types of vegetables in a supermarket, or different treatments tested in a controlled study, or organizational blocks on a calendar.
+

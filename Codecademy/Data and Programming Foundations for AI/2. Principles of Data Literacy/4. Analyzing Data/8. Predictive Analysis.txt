@@ -1,0 +1,22 @@
+We interact with predictive analysis in everyday life when we text a friend using text completion or watch a suggested TV show on Netflix. Predictive analysis also underlies computer vision, which is applied in facial recognition software and self-driving cars.
+
+Predictive analysis uses data and supervised machine learning techniques to identify the likelihood of future outcomes.
+
+Some popular supervised machine learning techniques include regression models, support vector machines, and deep learning convolutional neural networks. The actual 
+Preview: Docs Loading link description
+algorithm
+ used with each of these techniques is different, but each requires training data. That is, we have to provide a set of already-classified data that the algorithm can “learn” from. Once the algorithm has learned from the features of the training data, it can make predictions about new data.
+
+An important point here is that the algorithm can only be as good as the data used to train the algorithm. Maybe you’ve heard the catchphrase, “garbage in, garbage out”? That is certainly true for predictive analysis: a predictive model trained on poor-quality data will make poor-quality predictions.
+
+Instructions
+Take a look at the graphic in the learning environment and consider the following questions:
+
+How is supervised machine learning used in predictive analysis different from unsupervised machine learning used in exploratory analysis?
+If training data used to train an algorithm had many mistakes or mislabeled data, would the output of the algorithm be trustworthy?
+Think about times in your life when you interact with predictive algorithms. How accurate are they?
+Remember:
+
+Supervised machine learning algorithms are trained with labeled data and predict the likelihood of future outcomes.
+Supervised machine learning algorithms can only be as good as the data used to train them.
+Next, we will think more about how predictive analysis is used in real life.

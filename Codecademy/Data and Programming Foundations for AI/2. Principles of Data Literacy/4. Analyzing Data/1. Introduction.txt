@@ -1,0 +1,13 @@
+When working with data, our ultimate goal is to draw conclusions. The point of data analysis is to discover useful information, inform conclusions, and support decision-making. In general, data analysis lets us evaluate the presence, strength, and direction of relationships between different 
+Preview: Docs Stores data that can be manipulated and referenced throughout the code.
+variables
+ in our data. It lets us see patterns and make connections that would be impossible to find looking at raw data.
+
+Importantly, different types of data analysis allow us to draw different types of conclusions. In this lesson, we will learn about five types of data analysis:
+
+Descriptive analysis
+Exploratory analysis
+Inferential analysis
+Causal analysis
+Predictive analysis
+When applied appropriately, these analyses might let us determine why something happened, why something is the way it is, or what is likely to happen next.

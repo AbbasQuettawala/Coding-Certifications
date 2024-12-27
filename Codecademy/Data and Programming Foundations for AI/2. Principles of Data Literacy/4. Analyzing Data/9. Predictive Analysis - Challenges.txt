@@ -1,0 +1,17 @@
+Predictive analyses have tremendous power. As a result, we need to be careful about when we use them and when we trust them.
+
+Recommendation algorithms are excellent for making low-risk predictions. When Netflix makes recommendations for you, the predictions are relatively low-risk. For the most part, no one will be hurt if the recommendation is wrong. In contrast, predicting whether someone will commit a crime is a high-risk prediction, especially if the prediction is used for criminal sentencing or deciding to grant someone parole.
+
+Let’s think more about predictive analyses with an example from an article published by WIRED in 2020. When the COVID-19 pandemic started in 2020, high-school students had to finish the school year virtually. Standardized tests, like the International Baccalaureate (IB) exam, were canceled. International high school students wanting to study in the U.S. must take the IB exam to attend competitive U.S. colleges and universities.
+
+Since the exam was canceled, the IB board used a supervised machine learning 
+Preview: Docs Loading link description
+algorithm
+ to predict scores for each student. Unfortunately, many students were surprised by the scores the algorithm predicted for them. The students thought they were going to do much better on the test than the algorithm predicted they would!
+
+Instructions
+The animation in the learning environment shows how the IB board used historical training data to predict IB test scores for students that could not take the IB exam. Check it out and then consider the following questions:
+
+Is the IB test score predicting algorithm high or low risk?
+Who might be more likely to be accidentally discriminated against by the model: students at large schools with a long history of students taking the exam or students at small schools that only recently began offering the IB program?
+Is it fair to grant or deny college acceptance based on algorithm-predicted test scores?

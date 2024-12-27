@@ -1,0 +1,15 @@
+In the last exercise we covered accessibility guidelines specifically related to vision access – using color palettes, fonts, and alt-text to ensure that people across the vision spectrum can access our work.
+
+The same accessibility goal – making our work available and easier to access for more people – is a great principle to keep in mind no matter what. (This is actually called “universal design.”)
+
+We can apply it when it comes to…
+
+Readability: keep the reading level to a high school level whenever possible
+Prior knowledge: define unfamiliar terms and avoid unnecessary jargon
+Information overload: introduce new information with intentional pacing and organization
+Remember the ecology lab’s pitches for funding? Each lab member took a different approach based on their audience. The difference between the pitches for Sir Avon and Milana is a perfect example of “leveling” content for the intended audience: swapping the more technical term “ecological niche” with the synonym “ecosystem role” makes the graph’s title readable with more everyday words, without changing the meaning or even sacrificing detail.
+
+Finally, with any of these practices, there may be situations where it’s not the right call. Trinh probably shouldn’t avoid all technical language on the 
+Preview: Docs Loading link description
+graphs
+ in his peer-reviewed paper, and there may be no need for Anabelle to define industry terms when presenting a chart to work colleagues in her department. But for most audiences, and especially for broad or unknown audiences, keeping accessibility in mind will help everyone get the most out of our visualizations.

@@ -1,0 +1,14 @@
+We made it! This lesson covered everything you need to know to start designing data visualizations that look great, communicate effectively, and treat data ethically.
+
+Here’s a recap of what we talked about…
+
+Choosing the right chart type for our data
+Mapping 
+Preview: Docs Stores data that can be manipulated and referenced throughout the code.
+variables
+ onto aesthetic properties to communicate using position, shape, size, color
+Making effective color choices for data, design, and accessibility
+Designing accessible visualizations
+Scaffolding the visualization with context for the audience
+Owning the role of author
+That’s a big chunk of information. Pat yourself on the back for making it to the end of this lesson, then go forth and visualize!

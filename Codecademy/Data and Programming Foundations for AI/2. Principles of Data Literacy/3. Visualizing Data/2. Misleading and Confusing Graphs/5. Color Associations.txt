@@ -1,0 +1,14 @@
+Once we’ve picked the right color scale, there are still a few more considerations to be made to reduce confusion.
+
+First up, we tend to view darker colors as “more” and lighter colors as “less.” For example, if we’re visualizing which US states have the most pet ferrets, California – with the most pet ferrets of any state – should be the darkest state on the map. When this scale is reversed, people will tend to just read the graph wrong rather than reading the legend carefully.
+
+We also come to data visualizations with pre-existing associations for certain colors. These can be culturally specific (red means bad vs. red means lucky), or influenced by the norms for a particular field (red means negative financial balance).
+
+Sometimes it’s good to stick with what’s recognizable: it would be confusing for US voters if a major newspaper decided to visualize Democrats in red and Republicans in blue, since these colors are overwhelmingly associated with the opposite party.
+
+But in other cases, switching up colors that have existing cultural associations can reduce harmful stereotyping. Using pink for women and blue for men reinforces an outdated, 
+Preview: Docs Loading link description
+binary
+ view of women as soft and passive, and men as strong and unemotional. This design choice will not only turn off some viewers, it may also distract on a graph where gender is a relevant variable but not the whole focus.
+
+It would be confusing to just reverse this stereotypical color palette, but there are plenty of good alternatives – check out two examples from The New York Times on the right. The important thing is to be consistent with the alternative palette.

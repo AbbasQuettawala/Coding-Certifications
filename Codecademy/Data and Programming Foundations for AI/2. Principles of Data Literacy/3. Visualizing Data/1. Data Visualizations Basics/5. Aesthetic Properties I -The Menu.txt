@@ -1,0 +1,23 @@
+We’ve covered how we use chart type to highlight a relationship in the data. Now we’ll talk about how we use aesthetic properties to further clarify and visualize the “details” of the data.
+
+Aesthetic properties are the attributes we use to communicate data visually:
+
+Position
+Size
+Shape
+Color / pattern
+Most of us are already familiar with this concept, even if we’ve never seen it put into words before. Let’s walk through a visualization together to see how its aesthetic properties help us understand the data story.
+
+This visualization published by The New York Times in 2012 shows different tech IPOs (initial public offering, or when a formerly-private company becomes available as a publicly traded stock).
+
+Take a minute to look at the graph and see how position, size, shape, and color are used. What does it mean for a data point to be up and to the right versus down and to the left? What do bigger and smaller signify? How does shape come into play? What does color mean?
+
+Okay, let’s walk through it together now.
+
+We can start with position: from left to right (the x-axis), the graph measures time. From bottom to top (the y-axis) the graph measures company value in billions of dollars.
+
+As far as shape goes, there’s only one here – circles.
+
+Moving on to size, it looks like the size of each circle tracks with its company value. Companies with a larger IPO amount get a bigger circle.
+
+Finally, color corresponds to time. Earlier corresponds to red, and later to blue. The middle portion, around 1995, is purple. This visually separates the three decades into three general zones.

@@ -1,0 +1,23 @@
+Let’s find an alternative measure to the mean. We want to find a value that represents the typical musician income, but we don’t want to use the actual values in the computation because the data are skewed.
+
+One 
+Preview: Docs Loading link description
+method
+ would be to find the middle value when all values are arranged from smallest to largest. This value is called the median, but it’s also referred to as the 50th percentile or the second quartile (Q2).
+
+Let’s look at some simple data in the learning environment where the median (Q2) is 13. Half the data points are less than 13, and half are greater than 13.
+
+These data span 22 values, ranging from 6 to 28. We could use this as our measure of spread, but what if the highest number wasn’t 28 but 280? The median would still be 13, but now the range is 274 (280-6), which doesn’t tell us a lot about the bulk of the data.
+
+A better measurement might be the interquartile range (IQR). A quartile is simply a marker for a quarter (25%) of the data.
+
+The first quartile marks 25% (Q1 = 10).
+The second quartile marks 50% (Q2 = 13 — the median)
+The third quartile marks 75% (Q3 = 22)
+The IQR is the difference between Q3 and Q1 (22-10 = 12), marking the range for just the middle 50% of the data.
+
+Let’s find out how the median and IQR work out for our income data.
+
+Table showing the median of income is $32,978 and the IQR is $17,150.
+
+This looks better — the median of $32,978 is lower than the mean of $34,795 and seems more typical.

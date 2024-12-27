@@ -1,0 +1,15 @@
+We tend to think of context as “outside” a data visualization, but Shinji, Paola and Raj had the right idea by including appropriate context using titles and annotations. Each of them also did a great job of considering their specific audiences when making decisions about what context to include or not.
+
+Viewers need context to understand what a data visualization means and why it matters.
+
+Paola predicted that, as a scientist, Sir Avon would want to know the technical details like the amount of error in the measurements. She didn’t take up space on the graph with definitions, since she knew they weren’t necessary in this case.
+
+Shinji decided to use a question and answer format for their title to help communicate the takeaway of the graph to Claude in an accessible way. Shinji went for a more aggregated, less detailed approach to help keep the conclusion simple and digestible.
+
+Finally, Raj made good choices in his visualization for Milana: a descriptive but slightly-less-technical title, and a pointer towards definitions of terms he thinks Milana may not know and would be interested to learn.
+
+In each case, the lab member made sure to…
+
+Provide necessary details
+Include context that’s helpful for the specific audience
+Avoid “chart junk”: excess graphics, annotations, and general lines that don’t actually contain information

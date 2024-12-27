@@ -1,0 +1,16 @@
+Now that we can make some visualizations, let’s talk accessibility to make sure our work reaches everyone who wants to interact with it!
+
+The most commonly discussed accessibility concern is color, since color blindness affects 1 in 12 males and 1 in 200 females. That’s more common than we tend to think! There are a few different types of color blindness: check out the images for simulations of each form.
+
+The big takeaway when designing for color accessibility is to think not only about the hue of a color (e.g. red, green, or purple), but the value as well (e.g. bright red, light green, dark purple). Good color comparisons use high contrast values, not just different hues.
+
+It’s also important to use readable fonts in readable sizes, and make sure they’re web-accessible if online. (If you don’t do this, [] [] [] [] [] [] [] will happen!)
+
+Finally, for online data visualizations, make sure to include alt text as we would for any other web image. Alt text ensures that users experiencing a visualization through a screen reader won’t miss out on whatever information it contains.
+
+To recap, here’s a checklist for baseline accessibility:
+
+Colorblind-friendly color palettes
+Large enough font size
+Readable, web-accessible font type
+Alt text on data visualization images online

@@ -1,0 +1,10 @@
+That was a short primer on some common misleading parts of data visualizations – pitfalls that get between the actual truth of the data and how the viewer understands it.
+
+People make misleading or confusing 
+Preview: Docs Loading link description
+graphs
+ on purpose and by accident. We’ve seen how intentional changes to the scaling can really distort what the graph seems to say, and also how going with the status quo on color palettes can be helpful or harmful. Most of us aren’t out here trying to make misleading graphs – very often, it’s just a question of making a better or worse decision while designing the data viz.
+
+And improving our design skills – knowing when to use different color palettes and how to label our axes clearly – not only makes our graphs better, it also reduces bias! When we follow best practices in design, we’re not “going rogue” and just making design decisions that make the graph look the most extreme, or suit our needs at that moment. We’re following established practices that help to standardize graphs so that we can focus on what the data’s really saying.
+
+Long story short: good data viz is always a combination of quality data and effective design choices. If we can avoid confusion or missteps along the way, that’ll always be a good thing!

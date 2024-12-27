@@ -1,0 +1,15 @@
+Let’s return to our visualization of the distribution of musician ages.
+
+Bar plot showing the distribution of ages. Ages range from about 15 to 70. The frequencies determine the heights of the bars. The bars form a bell-shaped pattern.
+
+What would you say is the typical age of a musician in Melody Metropolis?
+Are most musicians about this age, or are there lots of musicians of many different ages?
+To answer these questions more specifically, we should take some measurements of our variable.
+
+The mean, also called the average, describes the center of a numeric distribution by adding all values and dividing by the count.
+The standard deviation describes the spread of values in a numeric distribution relative to the mean. It is calculated by finding the average squared distance from each data point to the mean and square-rooting the result.
+The mean age of musicians is 40.6 years and the standard deviation is about 9.3 years. We might interpret this standard deviation as moderate variability in age. Had the standard deviation been 1 year, we might say there’s hardly any variability in age. The plot of this narrow distribution might look something like the following:
+
+Bar plot showing the distribution of ages when the standard deviation is 1. Ages range from about 37 to 43 years. The frequencies determine the heights of the bars. The bars form a very narrow bell-shaped pattern.
+
+The mean and standard deviation are common choices, especially for normal distributions. Their mathematical formulas have special properties that make them easy to use in other contexts, such as statistical testing. However, the mean and standard deviation are not always the best measurements to describe a distribution.

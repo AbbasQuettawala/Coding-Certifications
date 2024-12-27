@@ -1,0 +1,11 @@
+Last up, we’re talking authorship.
+
+When Paola made the visualization for Sir Avon, at first she included fewer details and took out her annotations about points of interest. She assumed there was no way she – a student scientist – would know something that Sir Avon didn’t already know.
+
+But she was wrong! By the time Paola was able to make a data visualization about bird wing shapes, she was becoming an expert on the subject. Sir Avon, while a celebrated ecologist in general, did not share her depth of specific, current knowledge on this topic.
+
+Dr. Dinkle, the lab’s leader, helped Paola to own her role as the author – to recognize that the amount of time she had invested in data cleaning and data analysis, as well as data visualization, qualified her to make decisions about what should be included. It was not only worth sharing her opinion, the graph actually suffered without those annotations! Her perspective on the data helped Sir Avon to grasp the key takeaways.
+
+Paola’s experience is true for many people. It can feel unnatural to “speak for” the data, and many authors worry that they will influence their audiences by including annotations. But that’s just it! Data does not speak for itself, and often, the author of a data viz is the person in the best position to create insightful, helpful annotations.
+
+In fact, this context isn’t only helpful – very often, it’s the ethical way to present information. Providing context or even a written summary of what a graph shows helps to limit false conclusions, misinterpretations, and misinformation.

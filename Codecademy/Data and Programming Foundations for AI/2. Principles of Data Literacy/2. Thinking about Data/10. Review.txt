@@ -1,0 +1,15 @@
+Congratulations! We’ve finished our summary report for the mayor of Melody Metropolis, and you’ve just completed the lesson on statistical thinking! We covered a lot of information, including:
+
+Summary 
+Preview: Docs Statistics is the science that is concerned with methods for collecting, organizing, analyzing, and interpreting data.
+statistics
+ give us measurements to describe our data.
+Categorical 
+Preview: Docs Loading link description
+variables
+ can be described with frequencies and proportions.
+Numeric variables can be described using measures of center and spread.
+Sometimes we need robust statistics like the median and IQR because our data is skewed or has outliers.
+We can aggregate data to get a look at relationships between pairs of variables.
+Scatter plots and correlation coefficients help us describe linear relationships between pairs of numeric variables.
+And hopefully, the most important discovery you made is that learning statistics doesn’t have to be a struggle. We gain valuable skills just by understanding some basic concepts. Enjoy using your new data vocabulary!

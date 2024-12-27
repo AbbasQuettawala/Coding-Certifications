@@ -1,0 +1,16 @@
+Welcome!
+
+The field of data visualization has taken off in the last twenty years or so. People in all kinds of professional fields make data viz – from news media to business analysis – and most of us consume multiple visualizations per day, whether we notice it or not!
+
+Data visualizations are how we communicate data. We don’t read the numbers off a spreadsheet or list every number in a trend to communicate a point – we make a visualization to show them.
+
+In this module, we’ll cover two major ideas:
+
+We visualize data to accomplish a goal – to explore and see something new in the data, to strengthen an 
+Preview: Docs An argument is the actual value of a variable passed into a function.
+argument
+ with a visual aid, to share a data-driven idea with someone else, and more.
+
+Our design decisions can either help or hinder how effectively a data viz communicates. We tell stories with data viz (yes, even if it’s a simple visualization) using good design choices in chart type, color, labels, context, and more.
+
+There is so much we could say about data viz! It definitely won’t all fit here though, so in this Data Viz Basics lesson, we’re only talking about visualizations that are static (no moving parts or animations) and fixed (no interactivity).

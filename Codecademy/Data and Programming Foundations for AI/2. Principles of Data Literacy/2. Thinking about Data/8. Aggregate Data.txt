@@ -1,0 +1,17 @@
+
+
+One measure that we haven’t covered that is usually talked about alongside the mean and median is the mode. The mode is defined as the value with the highest frequency, but we can also think of the mode as the value where the peak of the distribution occurs. While not great for computations, the mode can help us identify interesting features in a variable.
+
+For instance, there might be more than one mode, such as in our distribution of years of experience. In the following plot, we can see there’s one peak near the 10-year mark and another near the 30-year mark. We would call this distribution bimodal because it has two modes.
+
+Histogram plot showing frequencies for the experience variable. There are two peaks: one at around 10 years and one at around 30 years. The title is "Bimodal distribution".
+
+Sometimes bimodal distributions occur when there are differences across categories of another variable. Given that the city seems to have a lot of young people in bands, let’s see if this pattern is reflected when we find the mean of each category of the band variable.
+
+Table showing mean years of experience for those in a band and those not. Those in a band have a mean of 14.4 years of experience. Those not in a band have a mean of 26.2 years of experience.
+
+These means are very different and very close to the locations of the modes in our plot. This indicates that there may be some differences in experience level between these two groups that are showing up in our distribution plots as two peaks.
+
+By making this separation and then summarizing with the mean, we have aggregated our data. In this case, we have aggregated by summarizing a numeric variable (experience) across each value of a categorical variable (band).
+
+We have aggregated some other data in tables in the learning environment. Do you see any interesting patterns?

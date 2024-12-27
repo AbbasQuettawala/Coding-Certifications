@@ -1,0 +1,16 @@
+Axes and scaling are like the page layout and spacing of a paper book: they’re not the most exciting parts, but they do present plenty of opportunities to make it harder to read.
+
+Let’s start with axes – the x-axis (horizontal, left-right) and y-axis (vertical, top-bottom). A common misleading aspect of an axis is a break. A break starts the count at a number that’s not zero, or jumps ahead – this can distort the amount of difference between data points by removing context, and make small differences in data seem bigger.
+
+Here’s an illustration of that idea: it would be almost impossible to tell at a glance if there were 100, 105, or 110 people standing in a room – but you’d be able to easily tell the difference between 0, 5, and 10 people standing in a room. Using a break on an axis can have the same effect, amplifying the change rather than the context because it alters the proportions in the visualization. Check out the 
+Preview: Docs Loading link description
+graphs
+ to the right to see what this looks like in practice.
+
+So what to do? If you’re looking at a graph, take a second to check where the axis starts. If there’s a break, factor that in as you think about what the numbers mean.
+
+If you’re making the graph, instead of using a big break…
+
+Keep enough context to view differences in proportion to a meaningful amount, OR
+Make two graphs, one without a break and one “zoomed in”, OR
+Choose a visualization type that shows the change, rather than the raw numbers

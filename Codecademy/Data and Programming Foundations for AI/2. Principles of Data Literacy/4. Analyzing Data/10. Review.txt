@@ -1,0 +1,32 @@
+Congratulations on finishing the lesson! We covered a lot of ground and introduced quite a few ideas in this lesson. Here is a recap of what we have learned:
+
+Data analysis is the process of mathematically summarizing and manipulating data to discover useful information, inform conclusions, and support decision-making.
+Data analysis can be broken down into 5 main types—Descriptive, Exploratory, Inferential, Causal, and Predictive—that are more or less appropriate depending on the situation.
+Descriptive analysis describes major patterns in data through summary 
+Preview: Docs Loading link description
+statistics
+ and visualization of measures of central tendency and spread.
+Exploratory analysis explores relationships between 
+Preview: Docs Stores data that can be manipulated and referenced throughout the code.
+variables
+ within a dataset and can group subsets of data. Exploratory analyses might reveal correlations between variables.
+Inferential analysis allows us to test hypotheses on a small sample of a population and extend our conclusions to the entire population.
+Causal analysis lets us go beyond correlation and actually assign causation when we carefully design and conduct experiments. In addition, causal inference sometimes allows us to determine causal effects even when experimentation is not possible.
+Predictive analysis goes beyond understanding the past and present and allows us to make data-driven predictions about the future. The quality of these predictions is deeply dependent on the quality of the data used to generate the predictions.
+Having a basic understanding of each type of data analysis, when to use it, and how to interpret results is a big step in data literacy. Now you will be able to better interpret data-driven conclusions presented to you and make the most of your own data!
+
+Instructions
+As a review, try matching the cases to the most appropriate type of analysis. Click Submit to check your answers before moving to the next exercise!
+
+You want to know whether a toxin is causing disease. - Causal
+
+You are interested in how several variables in a dataset relate to each other. - Exploratory
+
+You have a brand new dataset and need to get an idea of its size and distribution. - Descriptive
+
+You need to test a hypothesis but can only work with a subset of the population that the hypothesis is about. - Inferential
+
+You have a database of user comments identified as either negative or positive. You also have 10,000 new user comments that you would like to classify as negative or positive. - Predictive
+
+
+

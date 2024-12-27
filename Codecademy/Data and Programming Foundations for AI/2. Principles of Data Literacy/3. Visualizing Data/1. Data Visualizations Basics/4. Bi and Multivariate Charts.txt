@@ -1,0 +1,16 @@
+Next up, bivariate and multivariate charts! These charts show the relationships between two or more 
+Preview: Docs Loading link description
+variables
+.
+
+The classic bivariate example is the scatter plot — one variable on the x-axis, another on the y-axis, and each point helps us compare the two variables by its position on the graph.
+
+Scatterplots translate the relationship between two variables in the data into an easy-to-see spatial relationship. Because we’re relying on the idea that each variable increases as we move up the X or Y axis, the scatterplot only makes sense for numeric variables, not categorical.
+
+A line chart is another common bivariate chart, often measuring a variable changing over time. A stock chart, for example, measures the value of a company over time.
+
+A line chart with multiple lines for different variables is a multivariate chart. For an example, check out the line chart that plots both imported and domestic cheese sales.
+
+Last but not least, let’s think about a bivariate map. It shows a basic geographical map plus an additional variable — this example shows roughly where different pasta shapes originated in Italy. We can also map precipitation, altitude or depth, median income, museum locations, or combinations of variables… the list is endless.
+
+Charts often rely on visual signifiers besides chart type to visualize additional variables in the data. For example, the lines on a multivariate line chart are distinguished by pattern and color, and a scatter plot can use color, shape, or dot size to make a third variable apparent. Read on for info on color, shape, and more!

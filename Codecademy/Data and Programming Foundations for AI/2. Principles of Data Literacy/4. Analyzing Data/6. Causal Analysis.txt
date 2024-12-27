@@ -1,0 +1,20 @@
+We know that correlation does not mean causation. This is an important limitation in data analysis. We should be cautious to believe any studies or headlines claiming that one thing caused another without knowing their research methods. However, we often really want to know why something happened. In these cases, we turn to causal analysis. Causal analysis generally relies on carefully designed experiments, but we can sometimes also do causal analysis with observational data.
+
+Experiments that support causal analysis:
+
+Only change one variable at a time
+Carefully control all other variables
+Are repeated multiple times with the same results
+These are pretty high standards to meet. However, experiments that meet these standards are the clearest way to figure out if one thing caused another.
+
+Instructions
+Take a look at the breakdown of good experimental design in the learning environment and think about the following questions:
+
+Could you determine if drinking more water caused better sleep by monitoring your own sleep for a month and comparing results from days that you drank 8 glasses of water and days that you did not?
+Could you determine if drinking more water caused better sleep if you expanded your study to include 1,000 subjects and asked all men to record their sleep on days they drank 8 glasses of water and all women to record their sleep on days that they did not drink 8 glasses of water?
+Remember:
+
+Correlation does not equal causation.
+Proving causation is tricky and generally requires very careful experimental design.
+Replication, randomization, and control are key components of good experimental design.
+In the next exercise, we will consider when and how to do causal analysis if an experiment is impossible.

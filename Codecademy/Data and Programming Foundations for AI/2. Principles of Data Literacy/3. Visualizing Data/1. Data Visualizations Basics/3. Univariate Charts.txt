@@ -1,0 +1,21 @@
+One big consideration when choosing a chart type is how many 
+Preview: Docs Stores data that can be manipulated and referenced throughout the code.
+variables
+ we’re comparing. Univariate charts help us visualize a change in one variable.
+
+Often that means measuring “how much,” which can either be a count or a distribution.
+
+A common chart for counts is the bar graph. If we want to compare an amount between different categories, like “how many of each coin is in the piggy bank” or “how many birds were saved by species,” a bar chart translates the difference in count to a difference in bar height. Remember, the data relationship is translated to a visual relationship.
+
+Another common univariate chart is the histogram. Histograms measure the distribution or spread, of a variable.
+
+Histograms are a great way to show the concept of a normal (or skewed) distribution. We can visualize the answer to questions like…
+
+“how does foot size vary across the population?”
+“what is the distribution of pregnancy length across the human population?”
+“how is income distributed in my country?”
+A density curve also visualizes a distribution, without putting data in bins like a histogram does.
+
+A more “math-forward” way to visualize distributions is a box plot or violin plot. These visualizations make percentile and quartile values obvious.
+
+Last up, outside the counting and distribution category, let’s consider a univariate map. This would be a map where the only variable is geographic, i.e. a map that just shows us location and distance.

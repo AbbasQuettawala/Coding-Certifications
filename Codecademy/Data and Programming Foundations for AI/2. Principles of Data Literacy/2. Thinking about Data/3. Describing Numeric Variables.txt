@@ -1,0 +1,18 @@
+Now that we’ve learned about some of the categorical 
+Preview: Docs Stores data that can be manipulated and referenced throughout the code.
+variables
+ in our musician dataset, it’s time to explore some numeric variables — those with quantitative data. There are a lot of ways we can describe the distribution of a numeric variable. A distribution is a function that shows all possible values of a variable and how frequently each value occurs. This may sound pretty technical, but visualizing the distribution can make it easy to understand.
+
+In the learning environment, the distribution of musician ages is plotted with age on the x-axis and frequency on the y-axis. From this plot, we can see:
+
+Ages range from about 15 to 70.
+There are few musicians under 30 or over 50 years old.
+There are a lot of musicians between the ages of 30 and 50.
+This distribution might be considered bell-shaped or hill-shaped and symmetrical. This is actually a very common pattern and is called a normal distribution.
+
+Plot of a normal distribution. The bars in the plots become larger and then smaller moving left to right, forming a bell shape.
+
+Viewing a plot or knowing a variable is normally distributed gives us some general information, but still nothing specific. We need exact measurements to describe where the center of the distribution is and how wide the values are spread away from that center. There are several sets of 
+Preview: Docs Statistics is the science that is concerned with methods for collecting, organizing, analyzing, and interpreting data.
+statistics
+ we may use for these measurements, and we will need to know when to use which combination

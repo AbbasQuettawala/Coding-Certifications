@@ -1,0 +1,22 @@
+To start our summary for the mayor, let’s describe some of the categorical variables in the musician dataset — those variables that contain qualitative information on the city’s musicians. First, let’s look at information about the title variable, which tells us the job title each musician holds.
+
+The following table shows:
+
+frequency: the count of musicians for each job title
+proportion: the frequency divided by the total number of musicians
+percentage: the proportion converted from a decimal to a percentage
+A 6 by 4 table with columns labeled job title, frequency, proportion, and percentage. Row 1: performer, 333, 0.35, 35%. Row 2: manager 113, 0.12, 12%. Row 3: producer, 87, 0.09, 9%. Row 4: educator, 239, 0.25, 25%. Row 5: composer, 186, 0.19, 19%. Row 6: total, 958, 1.00, 100%.
+
+From the table, we can learn about the different job titles of musicians in the city. There are 333 performers out of a total of 958 musicians. The proportion of performers is 333 ÷ 958 = 0.35. To make this even easier to understand, we can convert the proportion to a percentage by multiplying it by 100: 35% of musicians in the city are performers.
+
+We can also compare one category to another by checking the ratio of their frequencies. For example, there are far fewer managers than performers. Their ratio is 333 performers to 113 managers, which can be simplified by dividing: 333 ÷ 113 = 2.95. This means there are almost 3 performers for every manager in the city.
+
+Try finding some other ratios from the table:
+
+What is the ratio of educators to composers? (Click to Toggle Correct Answer)
+
+What is the ratio of performers to producers? (Click to Toggle Correct Answer)
+Instructions
+The variable instrument from our dataset tells us the type of instrument each musician plays. The table in the learning environment gives the frequency, proportion, and percentage of musicians that play each type of instrument.
+
+Fill in the missing entries to complete the table. A correct entry will be indicated in the “INSTRUMENT” column. Round all proportions to two decimal places and all percentages to the nearest whole number with th

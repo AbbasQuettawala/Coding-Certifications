@@ -1,0 +1,22 @@
+The first step of making a data visualization is choosing a chart type. Chart type isn’t our only tool when it comes to visualizing data, but it’s an important one for communicating about the relationship we want to show.
+
+In this context, a “relationship” in the data could mean something like…
+
+“the shop’s sales of Gouda were higher in 2021 than any year since 2006”
+“30% of people ordered pizza with pineapple”
+“most people in the sample have a shoe size between 6 and 10.5 ”
+“as temperature increases, ice cream sales increase”
+The first example is a change over time – that can be perfect for a line chart or a bar chart.
+
+The second example compares a part to the whole: 30% of people got pizza with pineapple, out of 100% of people who ordered pizza. A pie chart is the classic (sometimes controversial) choice, but newer options include waffle and donut charts. Yum!
+
+The third example is a distribution – the spread of data points in one variable. A histogram is the classic choice for visualizing a distribution.
+
+The fourth example is a direct comparison of two 
+Preview: Docs Loading link description
+variables
+ to help understand a trend. This is perfect for a scatterplot, with or without a trend line.
+
+There’s often more than one possible chart we can use for a dataset. But different charts emphasize different questions, arguments, or relationships in the data, and whichever we choose should help translate that data relationship into a visual relationship.
+
+Next up, we’ll get to know these charts a little better.

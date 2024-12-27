@@ -1,0 +1,15 @@
+Sometimes we need to establish causation when actual experimentation is impossible. This could be due to a variety of reasons. For example, we might want to know why something happened that we really don’t want to repeat (e.g., why did a product flop?), or the necessary experiments may be too difficult, too expensive, or unethical. In such cases, we can sometimes apply causal inference techniques to observational data, but we need to be very careful.
+
+Causal inference with observational data requires:
+
+Advanced techniques to identify a causal effect
+Meeting very strict conditions
+Appropriate statistical tests
+Let’s think about this in terms of climate change. It is important to know if climate change is causing more frequent and intense hurricanes. But, we can’t do a controlled, replicated experiment on multiple planets with and without climate change. Instead, climate scientists carefully use causal analysis on observational data to determine whether climate change contributes to bigger hurricanes happening more often.
+
+Instructions
+Take a look at the observational data in the learning environment that comes from the site Spurious Correlations. Consider the following questions:
+
+Is margarine consumption correlated with divorce rate?
+Does consuming less margarine cause fewer people to get divorced in Maine? Why or why not?
+Next, we will discover a popular form of analysis that is used to make predictions!

@@ -1,0 +1,16 @@
+Have you ever used a map that was just… wrong? As in, “this entire building doesn’t exist on the map” wrong, or “it almost had me drive down a one-way street” wrong. You notice pretty quickly, right?
+
+What about a map where countries are the wrong size? How long do you think it would take to notice that something was off?
+
+Anyone who has ever learned geography from a map has learned something “wrong.” Mapmakers have known for hundreds of years that it’s just not possible to transfer the earth’s 3D information to a 2D map without changing the shape or size of the continents and oceans – something has to be sacrificed.
+
+(Check out this GIF showing a Mercator projection versus the actual size of countries. The Mercator projection, invented in 1569 and widely used to teach geography through the 20th century and today, severely distorts the size of land masses near the poles.)
+
+The same idea is true in data visualization. Data visualizations take information from the living, breathing world that we inhabit and show it to us in just a few square inches of screen or paper. That always involves prioritizing speed, or accuracy, or sample size, or cost, or another factor, at the expense of something else.
+
+While the best 
+Preview: Docs Loading link description
+graphs
+ really do teach us something new, and help us understand a deeper truth using data, graphs can also be misleading, both intentionally or unintentionally. We shouldn’t ever assume that a data visualization shows us the truth, the whole truth, and nothing but the truth.
+
+This lesson will help us recognize the elements of misleading and confusing graphs so that we can avoid making them ourselves.

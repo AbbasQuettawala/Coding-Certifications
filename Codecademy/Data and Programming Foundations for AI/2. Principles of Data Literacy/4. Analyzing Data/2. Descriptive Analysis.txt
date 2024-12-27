@@ -1,0 +1,9 @@
+Let’s imagine we’re looking at a field of flowers like the one in the learning environment. There are flowers with different shapes, colors, and heights. If you had to describe these flowers, how would you quantify all these characteristics? What does a typical blue flower look like? Are blue flowers all similar in height? It’s hard to say just looking at a mix of all the flowers, just like it’s hard to describe a big dataset just by looking at a spreadsheet of values.
+
+Descriptive analysis lets us describe, summarize, and visualize data so that patterns can emerge. Sometimes we’ll only do a descriptive analysis, but most of the time a descriptive analysis is the first step in our analysis process.
+
+Descriptive analyses include measures of central tendency (e.g., mean, median, mode) and spread (e.g., range, quartiles, variance, standard deviation, distribution), which are referred to as descriptives or summary statistics.
+
+Typically, data visualization is also included in descriptive analysis.
+
+Descriptive analysis helps us understand our data and decide what steps to take next, but we cannot extend what we learn to other datasets.
